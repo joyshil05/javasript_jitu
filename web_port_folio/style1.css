@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    font-family: 'Ms Madi', cursive;
+}
+.header{
+    color: rgba(135, 15, 240, 0.957);
+    font-size: 30px;
+}
+.hollywood{
+    color: black;
+    float:left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hollywood img{
+    width: 75%;
+}
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(60deg, rgba(249, 73, 73, 0.927),rgb(255, 71, 203));
+    border-radius: 2px;
+    padding: 5px 7px;
+    color: rgb(31, 4, 4);
+    font-weight: 200;
+}
+.back {
+    background-repeat: no-repeat;
+    background-image: url(personal-website/header-bg.png);
+}
+section{
+    height: 500px;
+}
+.header1{
+    text-align: center;
+}
+.bow{
+    float: left;
+    margin-left: 5% ;
+    padding-left: 5%;
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+}
+.bow img{
+    width: 120%;
+}
+
